@@ -1,0 +1,8 @@
+Changelog for PhpHypher.
+
+1.0.1 (19.10.2012)
+- Added parameter exclude.
+
+1.0.0 (19.10.2012)
+==============
+- Initial release.
