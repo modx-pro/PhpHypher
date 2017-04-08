@@ -1,5 +1,9 @@
 Changelog for PhpHypher.
 
+1.0.3 (07.05.2017)
+==============
+- [#2] Updated regex for "&exclude".
+
 1.0.2 (19.07.2016)
 ==============
 - Improved default value of parameter "&exclude".

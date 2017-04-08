@@ -11,7 +11,7 @@ $properties = array(
 		'desc' => 'phphypher.exclude',
 		'type' => 'textfield',
 		'options' => '',
-		'value' => '!(((title|alt|href|src|value|action|name)=(\"|\')(.*?)(\"|\'))|(<pre(.*?)</pre>)|(<option(.*?)</option>))!ise',
+		'value' => '!(((id|title|alt|href|src|value|action|name)=(\"|\')(.*?)(\"|\'))|(<pre(.*?)</pre>)|(<option(.*?)</option>))!ise',
 		'lexicon' => 'phphypher:properties',
 	),
 );
